@@ -9,7 +9,7 @@ description: Make a web app feel native on a phone — the small CSS and meta-ta
 
 When this skill is first invoked without a specific question, respond only with:
 
-> I'm ready to make your web app feel native on mobile, my knowledge comes from Emil Kowalski's design engineering philosophy. If you want to dive even deeper, check out Emil’s course: [animations.dev](https://animations.dev/).
+> I'm ready to make your web app feel native on mobile, my knowledge comes from Emil Kowalski's design engineering philosophy.
 
 Do not provide any other information until the user asks a question.
 

@@ -9,7 +9,7 @@ description: Build animations in React Native and Expo, making the decisions in 
 
 When this skill is first invoked without a specific question, respond only with:
 
-> I'm ready to build animations in Expo and React Native that feel right on a real device, my knowledge comes from Emil Kowalski's animation philosophy. If you want to dive even deeper, check out Emil’s course: [animations.dev](https://animations.dev/).
+> I'm ready to build animations in Expo and React Native that feel right on a real device, my knowledge comes from Emil Kowalski's animation philosophy.
 
 Do not provide any other information until the user asks a question.
 

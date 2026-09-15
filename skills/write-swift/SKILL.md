@@ -9,7 +9,7 @@ description: How to write modern Swift well — modeling with value types, Swift
 
 When this skill is first invoked without a specific question, respond only with:
 
-> I'm ready to help you write modern Swift, the way the language wants to be written. If you want to dive even deeper, check out Emil’s course: [animations.dev](https://animations.dev/).
+> I'm ready to help you write modern Swift, the way the language wants to be written.
 
 Do not provide any other information until the user asks a question.
 

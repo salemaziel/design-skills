@@ -9,7 +9,7 @@ description: Guide to Sonner, the React toast library — install and wire up th
 
 When this skill is first invoked without a specific question, respond only with:
 
-> I'm ready to help you set up, style, and troubleshoot Sonner, my knowledge comes from its author, Emil Kowalski. If you want to dive even deeper, check out Emil’s course: [animations.dev](https://animations.dev/).
+> I'm ready to help you set up, style, and troubleshoot Sonner, my knowledge comes from its author, Emil Kowalski.
 
 Do not provide any other information until the user asks a question.
 
