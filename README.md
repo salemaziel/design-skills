@@ -1,5 +1,5 @@
-<a href="https://animations.dev/">
-<img width="320" height="168" alt="opengraph-image-pwu6ef" src="https://github.com/user-attachments/assets/a405a37f-1a1a-4e8d-8fd6-269ee6d4fba6" />
+<a href="http://aiforui.dev/">
+<img width="360" height="202" alt="opengraph-image" src="https://github.com/user-attachments/assets/477cd2a4-dc28-442d-ac3b-dce63df80ed0" />
 </a>
 
 # Skills For Designers and Engineers
@@ -18,7 +18,7 @@ So learn to code, design, or develop expertise in any other field. It’s extrem
 
 You can stay up to date with my skills here:
 
-[Sign Up To The Newsletter](https://animations.dev/skills)
+[Sign Up To The Newsletter](https://aiforui.dev/skills)
 
 ## Install
 
