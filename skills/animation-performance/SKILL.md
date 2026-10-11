@@ -43,7 +43,7 @@ Start here. Match what the user is seeing, then read the matching section.
 | Problem | Solution |
 | --- | --- |
 | Animation stutters | Animate `transform`/`opacity`, not `width`/`height`/`top`/`margin` |
-| Shadow or radius animation is choppy | `filter: drop-shadow()` / `clip-path: inset(0 round …)` |
+| Shadow animation is choppy | `filter: drop-shadow()` |
 | Jank only during navigation or loading | Move the animation to CSS or WAAPI so it runs off the main thread |
 | Framer Motion `x`/`y` drops frames | Animate the full `transform` string |
 | Hand-rolled animation drops frames in React | Write to `ref.current.style`, not state |
@@ -89,9 +89,8 @@ Every property enters this pipeline at one of three points, and the cost differs
 | `top` / `left` / `margin` to move | `translate()` (percentages are relative to the element's own size) |
 | `display` / `visibility` swaps | `opacity` |
 | `box-shadow` | `filter: drop-shadow(…)` |
-| `border-radius` | `clip-path: inset(0 round 16px)` |
 
-The last two are the ones people miss. An animated shadow or a morphing corner looks harmless but repaints the element every frame.
+The last one is the one people miss. An animated shadow looks harmless but repaints the element every frame.
 
 Two things follow:
 
