@@ -1,0 +1,37 @@
+{
+  "name": "design-skills",
+  "version": "0.1.0",
+  "description": "Design and animation skills for building, reviewing, and refining high-craft user interfaces.",
+  "author": {
+    "name": "Via Del Web",
+    "url": "https://github.com/salemaziel"
+  },
+  "homepage": "https://github.com/salemaziel/design-skills",
+  "repository": "https://github.com/salemaziel/design-skills",
+  "license": "MIT",
+  "keywords": [
+    "design",
+    "animation",
+    "motion",
+    "ui",
+    "ux"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Design Skills",
+    "shortDescription": "High-craft UI design and animation guidance.",
+    "longDescription": "Build, review, and refine user interfaces with focused skills for animation, motion, prototyping, and design engineering.",
+    "developerName": "Via Del Web",
+    "category": "Design",
+    "capabilities": [
+      "Interactive",
+      "Read",
+      "Write"
+    ],
+    "defaultPrompt": [
+      "Review this interface against high-craft design principles.",
+      "Find animation opportunities in this UI.",
+      "Prototype several distinct versions of this component."
+    ]
+  }
+}
